@@ -51,7 +51,7 @@ Under peer-to-peer mentoring, the students upload their progress and ideas to cr
 ## Schedule and Hand-Outs
 
 Please be aware that the following schedule is tentative and may change throughout the semester.
-
+<!--
 Week | Topic | Week | Topic
 -----|-------|------|-------
 1 | Intro | 9 | Prototyping   
@@ -62,7 +62,7 @@ Week | Topic | Week | Topic
 6 | Wired/wireless communication | 14 | Alternative approaches to IPS, [_Milestone 4_](./Grading/Milestone_score.md) 
 7 | FPGA/Vision, [_LAB 3_](./lab3.md) | 15 | IPS Ethics 
 8 | Prototyping, [_Milestone 2_](./Grading/Milestone_score.md) | 16 | Final Competition
-
+-->
 See detailed schedule and deadlines [here](schedule.md)
 
 ***
