@@ -34,17 +34,17 @@ Under peer-to-peer mentoring, the students upload their progress and ideas to cr
 
 ## Relevant Links
 
-* [Piazza](https://piazza.com/cornell/fall2018/ece3400/home?), sign up [here](http://piazza.com/cornell/fall2018/ece3400)
-* [Course Description](./courseDescription.md)
-* [Detailed Schedule](schedule.md)
-* [Lab schedule](https://calendar.google.com/calendar/embed?src=cornell.ece3400%40gmail.com&ctz=America%2FNew_York)
-* [Competition day schedule](./CompetitionSchedule.pdf)
-* [Lectures](./lectures/lectures.md)
-* [Piazza](https://piazza.com/cornell/fall2018/ece3400/home), please sign up [here](https://piazza.com/cornell/fall2018/ece3400)
-* [Team Websites](./teams.md)
-* [Grades, rules, and final scoring chart](./Grading/Readme.md)
-* [Robot cost](./Cost.md)
-* [Tutorials](./tutorials/readme.md)
+* [Piazza]<!--(https://piazza.com/cornell/fall2018/ece3400/home?), sign up [here](http://piazza.com/cornell/fall2018/ece3400)-->
+* [Course Description]<!--(./courseDescription.md)-->
+* [Detailed Schedule]<!--(schedule.md)-->
+* [Lab schedule]<!--(https://calendar.google.com/calendar/embed?src=cornell.ece3400%40gmail.com&ctz=America%2FNew_York)-->
+* [Competition day schedule]<!--(./CompetitionSchedule.pdf)-->
+* [Lectures]<!--(./lectures/lectures.md)-->
+* [Piazza]<!--(https://piazza.com/cornell/fall2018/ece3400/home), please sign up [here](https://piazza.com/cornell/fall2018/ece3400)-->
+* [Team Websites]<!--(./teams.md)-->
+* [Grades, rules, and final scoring chart]<!--(./Grading/Readme.md)-->
+* [Robot cost]<!--(./Cost.md)-->
+* [Tutorials]<!--(./tutorials/readme.md)-->
 
 ***
 
