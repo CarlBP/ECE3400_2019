@@ -10,20 +10,25 @@ In teams of 4-6 students,  you will design and fabricate a robot able to navigat
 
 ![ECE3400 Overview](./images/Overview.png)
 
-Instead of traditional hand-ins, we leverage peer-to-peer mentoring where students, under guidance, upload their progress and ideas to create a sustainable and continuously evolving database for future students to rely on. See past years: 
+Under peer-to-peer mentoring, the students upload their progress and ideas to create a sustainable and continuously evolving database for future students to rely on. See past years: 
 
-* [2017 website](https://cei-lab.github.io/ece3400-2017/) and [competition video](https://www.youtube.com/watch?v=H8rs1d3O4aI&t=33s) 
+* [2018 website](https://cei-lab.github.io/ece3400-2018/) and [competition video](https://www.youtube.com/watch?v=H8rs1d3O4aI&t=33s) 
 * [2015 class](https://www.youtube.com/watch?v=WN0maCOflVQ)
 
 
 ***
 
-* [Instructor](./instructors.md): Assistant Professor Kirstin Petersen (khp37)
-* [TA's](./instructors.md)
+* [Instructor](./instructors.md): Carl Poitras (cbp8)
+* [TAs](./instructors.md)
 * Note that lab and milestone grades will be distributed over Blackboard!
-* Class hours: Monday and Wednesday 11.15am-12.05pm, Upson Hall 142 (or overflow rooms).
-* Team meetings: Friday 11.15am-12.05pm, Upson Hall 142 (or overflow rooms).
-* Labs: Monday 1.25-4.25pm, Monday 7.30-10.30pm, Wednesday 7.30-10.30pm, Thursday 7.30-10.30pm, Friday 1.25-4.25pm in Phillips Hall 427. 
+* Class hours: Monday and Wednesday 11:15 AM - 12:05 PM, Kimball Hall B11.
+* Team meetings: 11:15 AM - 12:05 PM, Kimball Hall B11.
+* Labs (in 427 Phillips Hall):
+Monday 1:25PM - 4:25PM
+Monday 7:30 PM - 10:30 PM
+Wednesday 7:30 PM - 10:30 PM
+Thursday 7:30 PM - 10:30 PM
+Friday 1:25 PM - 4:25 PM 
 
 ***
 
