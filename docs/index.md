@@ -23,12 +23,12 @@ Under peer-to-peer mentoring, the students upload their progress and ideas to cr
 * Note that lab and milestone grades will be distributed over Blackboard!
 * Class hours: Monday and Wednesday 11:15 AM - 12:05 PM, Kimball Hall B11.
 * Team meetings: 11:15 AM - 12:05 PM, Kimball Hall B11.
-* Labs (in 427 Phillips Hall):
-* [Monday] 1:25PM - 4:25PM
-Monday 7:30 PM - 10:30 PM
-Wednesday 7:30 PM - 10:30 PM
-Thursday 7:30 PM - 10:30 PM
-Friday 1:25 PM - 4:25 PM 
+* LABS (in 427 Phillips Hall):
+** [Monday] 1:25PM - 4:25PM
+* [Monday] 7:30 PM - 10:30 PM
+* [Wednesday] 7:30 PM - 10:30 PM
+* [Thursday] 7:30 PM - 10:30 PM
+* [Friday] 1:25 PM - 4:25 PM 
 
 ***
 
